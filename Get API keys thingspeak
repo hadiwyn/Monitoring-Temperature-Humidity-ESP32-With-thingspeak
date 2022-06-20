@@ -1,0 +1,3 @@
+1. Go to https://thingspeak.com/ and create an account if you do not have one. Login to your account.
+2. Create a new channel by clicking on the button. Enter the basic details of the channel. Then Scroll down and save the channel. You can follow the video guide below.
+3. Then go to API keys copy and paste this key to a separate notepad file. You will need it later while programming.
